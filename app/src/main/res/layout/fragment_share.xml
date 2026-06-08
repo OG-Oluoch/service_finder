@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.share.ShareFragment">
+
+    <!--    <ScrollView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent">-->
+    <!--        -->
+    <!--    </ScrollView>-->
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+
+            android:padding="@dimen/activity_vertical_margin"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <ImageButton
+                android:background="@drawable/whatsapp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </ImageButton>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+
+            android:padding="@dimen/activity_vertical_margin"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <ImageButton
+                android:background="@drawable/facebook_"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </ImageButton>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+
+            android:padding="@dimen/activity_vertical_margin"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <ImageButton
+                android:background="@drawable/twitter_"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </ImageButton>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:padding="@dimen/activity_vertical_margin"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <ImageButton
+                android:background="@drawable/email_"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </ImageButton>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</FrameLayout>

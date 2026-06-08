@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.clienthome.ServiceSelected">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:weightSum="10"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_weight="7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:id="@+id/business_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </ImageView>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+
+                android:id="@+id/bs_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Business Name"
+                android:fontFamily="@font/segoe_ui_bold"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:id="@+id/bs_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Business Description"
+                android:fontFamily="@font/segoe_ui_bold"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                />
+
+
+            <Button
+                android:id="@+id/btn_request_service"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/request_service"
+                android:padding="5sp"
+                android:layout_marginEnd="20sp"
+                android:layout_marginStart="20sp"
+                android:layout_marginTop="20sp"
+                android:background="@drawable/button"
+                />
+
+<!--            <androidx.appcompat.widget.LinearLayoutCompat-->
+<!--                android:orientation="horizontal"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content">-->
+
+<!--                <TextView-->
+<!--                    android:padding="@dimen/activity_horizontal_margin"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Working Hours" />-->
+
+<!--                <TextView-->
+<!--                    android:padding="@dimen/activity_horizontal_margin"-->
+<!--                    android:id="@+id/bs_hours"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="" />-->
+
+<!--            </androidx.appcompat.widget.LinearLayoutCompat>-->
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

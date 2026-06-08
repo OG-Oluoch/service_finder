@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="26dp"
+    android:paddingTop="16dp"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/imageView"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="5dp"
+        android:src="@drawable/logo"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextView"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_marginTop="65dp"
+        android:layout_marginLeft="10dp"
+        android:text="E Chiro"
+        android:fontFamily="@font/nunito_semibold"
+        android:textSize="16sp"
+        android:textColor="#1F1E1E"
+        />
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_below="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/username_headerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+    </LinearLayout>
+
+<!--    <ImageView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_marginTop="65dp"-->
+<!--        android:src="@drawable/backarrow"-->
+<!--        app:tint="#797878" />-->
+<!--    <RelativeLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_marginBottom="30dp"-->
+<!--        android:layout_below="@+id/imageView"-->
+<!--        android:id="@+id/layout"-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        android:layout_height="wrap_content">-->
+
+<!--        <RelativeLayout-->
+<!--            android:id="@+id/view1"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginLeft="10dp">-->
+
+<!--            <ImageView-->
+<!--                android:id="@+id/image1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_centerHorizontal="true"-->
+<!--                android:src="@drawable/orders1" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/text1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_below="@+id/image1"-->
+<!--                android:fontFamily="@font/nunito_regular"-->
+<!--                android:text="My Orders"-->
+<!--                android:textAlignment="center"-->
+<!--                android:textColor="#383838"-->
+<!--                android:textSize="12sp" />-->
+
+<!--        </RelativeLayout>-->
+<!--        <RelativeLayout-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:id="@+id/view2"-->
+<!--            >-->
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:id="@+id/image2"-->
+<!--                android:layout_centerHorizontal="true"-->
+<!--                android:src="@drawable/tickets1"-->
+<!--                />-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_below="@+id/image2"-->
+<!--                android:id="@+id/text2"-->
+<!--                android:text="My Tickets"-->
+<!--                android:textSize="12sp"-->
+<!--                android:fontFamily="@font/nunito_regular"-->
+<!--                android:textColor="#383838"-->
+<!--                android:textAlignment="center"-->
+<!--                />-->
+<!--        </RelativeLayout>-->
+<!--        <RelativeLayout-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentRight="true"-->
+<!--            android:layout_marginRight="10dp"-->
+<!--            android:id="@+id/view3"-->
+<!--            >-->
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:id="@+id/image3"-->
+<!--                android:layout_centerHorizontal="true"-->
+<!--                android:src="@drawable/wallet1"-->
+<!--                />-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_below="@+id/image3"-->
+<!--                android:id="@+id/text3"-->
+<!--                android:text="My Wallets"-->
+<!--                android:textSize="12sp"-->
+<!--                android:fontFamily="@font/nunito_regular"-->
+<!--                android:textColor="#383838"-->
+<!--                android:textAlignment="center"-->
+<!--                />-->
+<!--        </RelativeLayout>-->
+<!--    </RelativeLayout>-->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/layout"
+        android:background="#7C918B8B"
+        />
+</RelativeLayout>

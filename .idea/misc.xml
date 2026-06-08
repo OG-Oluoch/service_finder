@@ -1,0 +1,110 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro (1)/app/src/main/res/layout/fragment_settings.xml" value="0.22826086956521738" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro (1)/app/src/main/res/layout/fragment_share.xml" value="0.22826086956521738" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro (1)/app/src/main/res/layout/list_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/drawable/button.xml" value="0.14" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/drawable/et_custom.xml" value="0.146" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/drawable/gradient.xml" value="0.145" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/drawable/ic_arrow_back.xml" value="0.146" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/drawable/ic_custom_password_toggle.xml" value="0.1225" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/drawable/password_toggle_selector.xml" value="0.146" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/drawable/txt_mat_custom.xml" value="0.146" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/activity_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/card_notification.xml" value="0.253125" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/card_services.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/client_notifications_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/custom_exit_dialog.xml" value="0.253125" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/dialog_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/dialog_request_summary.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_add_service.xml" value="0.264" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_client_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_client_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_client_requests.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_client_services.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_client_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_forgot_password.xml" value="0.12708333333333333" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_service_categories.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_service_provider_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_service_provider_requests.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_service_selected.xml" value="0.24682971014492755" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_services.xml" value="0.12708333333333333" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_settings.xml" value="0.12360688956433637" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/fragment_update_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/header_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/list_item_nearest_services.xml" value="0.253125" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/notifications_item.xml" value="0.253125" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/request_service_dialog.xml" value="0.24682971014492755" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/requests_list.xml" value="0.24682971014492755" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/layout/services_list.xml" value="0.253125" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneDrive/Wence Files/Android/AndroidStudioProjects/e_Chiro/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/btn_custom.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/et_custom.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/follow_btn_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/gradient.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/ic_menu_person.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/main_back.xml" value="0.1390625" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/members_name_back.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/drawable/searchbar.xml" value="0.1390625" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/activity_account.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/activity_signup.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/card_client_service.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/card_request.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/card_requests.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/card_service_category.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/card_services.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/card_setting.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/dialog_request_summary.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_add_service.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_bookings.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_client_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_client_requests.xml" value="0.3623725671918443" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_client_services.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_client_type.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_editi_profile.xml" value="0.11927083333333334" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_electricians.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_forgot_password.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_login.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_medical.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_plumbing.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_providers_map.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_requests.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_service_categories.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_service_provider_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_settings.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_sign_up.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/fragment_slideshow.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/header_view.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/nav_header_main.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/layout/services_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/innocent.khaemba/Radical/Weaver/WHEBTOS/WHEBTOSAndroid/app/src/main/res/menu/main.xml" value="0.11927083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

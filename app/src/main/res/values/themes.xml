@@ -1,0 +1,6 @@
+<!-- res/values/attrs.xml -->
+<resources>
+    <declare-styleable name="CustomTheme">
+        <attr name="isDarkTheme" format="boolean" />
+    </declare-styleable>
+</resources>

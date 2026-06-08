@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">e_chiro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Whebtos Professional Services</string>
+    <string name="nav_header_subtitle">whebtos.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="google_sign_up">Sign up with Google</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_bookings">Bookings</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_switch">Switch</string>
+    <string name="menu_requests">My Requests</string>
+    <string name="menu_s_p_requests">Requests from Clients</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_services">Services</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_signup">LoginActivity</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <string name="login_text">Login</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="forgot_password_text">Forgot Password?</string>
+    <string name="new_here_text">New Here ?</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="name_text">Name</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="privacy_text">By creating an account, you agree to the \nTerms and Use and Privacy Policy</string>
+    <string name="already_account_text">Already have an account ?</string>
+
+    <string name="about_activity_label">About ALC</string>
+
+    <string name="profile_activity_label">My profile</string>
+    <string name="profile_name">User Name</string>
+    <string name="profile_track">User Bio</string>
+
+    <string name="display_country">Country</string>
+    <string name="profile_country">Kenya</string>
+
+    <string name="display_email">Email</string>
+    <string name="profile_email">whebtos@gmail.com</string>
+
+    <string name="display_number">Mobile</string>
+    <string name="profile_number">+254700000000</string>
+
+    <!-- authentication -->
+    <string name="btn_login">Login</string>
+    <string name="btn_login_google">Continue With Google</string>
+    <string name="btn_login_fb">Continue With Facebook</string>
+    <string name="btn_login_outlook">Continue With Outlook</string>
+    <string name="btn_login_email">Continue With Email</string>
+    <string name="login_message">Please sign in to continue</string>
+    <string name="email_address">Email Address</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don\'t have an account yet? </string>
+    <string name="or">or</string>
+    <string name="password">Password</string>
+    <string name="new_password">Please enter your New Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="click_here_to_register">Click here to Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="old_password">Old Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="id_number">Id Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="isServiceProvider">I provide services</string>
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="continue_as_client">Client</string>
+    <string name="continue_as_service_provide">Service Provider</string>
+
+    <!-- profile-->
+    <string name="label_requests">Requests</string>
+    <string name="label_pending">Pending</string>
+    <string name="label_completed">Completed</string>
+    <string name="label_successful">Successful</string>
+    <string name="label_general">General</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_reviews">Reviews</string>
+    <string name="label_pending_requests">Pending Requests</string>
+    <string name="label_revenue">Revenue</string>
+    <string name="label_views">Views</string>
+    <string name="label_all_requests">All Requests</string>
+    <string name="label_add_service">Add a New Service</string>
+    <string name="request_service">Request Service</string>
+    <string name="label_add_service_title">Let us know what service you would like to provide</string>
+    <string name="label_category">Select Category</string>
+    <string name="label_sub_category">Select Sub Category</string>
+    <string name="label_service_name">Service Name</string>
+    <string name="label_physical_address">Physical Address</string>
+    <string name="label_mon_fri">MON - FRI</string>
+    <string name="label_sat_sun">SAT &amp; SUN</string>
+    <string name="label_open_at">Open At</string>
+    <string name="label_close_at">Close At</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_services">Find Services</string>
+    <string name="label_recent_activities">Recent Activities</string>
+    <string name="label_popular_services">Popular Services</string>
+    <string name="label_user_type">Are you a Client or Service Provider?</string>
+
+    <string-array name="choices_array">
+        <item>Client</item>
+        <item>Service Provider</item>
+    </string-array>
+
+    <string name="make_a_bid">Make a Bid</string>
+    <string name="reject_bid">Reject Bid</string>
+
+    <string name="proceed_with_service">Proceed</string>
+    <string name="reject_service">Cancel</string>
+
+    <string name="label_request_service_notice">Kindly note that this information is not compulsory but is really helpful for us to ensure you get the best services</string>
+    <string name="label_request_service_type">We aim to fully satisfy your needs. Kindly give a short description of how you would like your service</string>
+    <string name="label_request_service_time">Which day and time would you love to receive the service</string>
+    <string name="label_request_service_location">Kindly share your physical location for better engament</string>
+
+    <string name="msg_token_fmt">FCM Token</string>
+
+
+
+    <string-array name="time">
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>24:00</item>
+
+    </string-array>
+
+    <!-- service-->
+
+    <string name="business_description">Enter a short description about your service</string>
+    <string name="physical_address">Enter the physical address of your service</string>
+    <string name="service_name">Enter the name of your service</string>
+    <string name="DarkMode">dark_light</string>
+    <string name="dark_light">Dark/Light</string>
+
+
+</resources>

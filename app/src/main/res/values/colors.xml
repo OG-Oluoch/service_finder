@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#295091</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_gray">#595959</color>
+    <color name="light_gray">#8C8C8C</color>
+    <color name="colorPrimary">#295091</color>
+    <color name="color_blue">#0000FF</color>
+    <color name="overlay_light_20">#FFFFFF</color>
+    <color name="grey_90">#E5E5E5</color>
+    <color name="grey_40">#666666</color>
+    <color name="light_blue_400">#29B6F6</color>
+    <color name="grey_60">#999999</color>
+    <color name="grey_5">#808080</color>
+    <color name="light_green_300">#C4D300</color>
+    <color name="service_provider">#006CD9</color>
+    <color name="client">#E23F52</color>
+    <color name="main_logo_color">#F98607</color>
+    <color name="transparent">#00000000</color>
+    <color name="google_button_text_color">#FFFFFF</color>
+    <color name="main_button_color">#FF00FF</color>
+    <color name="toggle_on_color">#FF6200EE</color>
+    <color name="toggle_off_color">#FF3700B3</color>
+    <!-- Theme-aware colors -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="text_color">#FF000000</color>
+    <color name="nav_icon_color">#FF000000</color>
+
+
+
+
+</resources>
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<resources>-->
+<!--    <color name="purple_200">#295091</color>-->
+<!--    <color name="purple_500">#FF6200EE</color>-->
+<!--    <color name="purple_700">#FF3700B3</color>-->
+<!--    <color name="teal_200">#FF03DAC5</color>-->
+<!--    <color name="teal_700">#FF018786</color>-->
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+
+<!--    <color name="dark_gray">#595959</color>-->
+<!--    <color name="light_gray">#8C8C8C</color>-->
+
+<!--    <color name="colorPrimary">#295091</color>-->
+<!--    <color name="color_blue">#0000FF</color>-->
+<!--    <color name="overlay_light_20">#FFFFFF</color>-->
+<!--    <color name="grey_90">#e5e5e5</color>-->
+<!--    <color name="grey_40">#666666</color>-->
+<!--    <color name="light_blue_400">#29B6F6</color>-->
+<!--    <color name="grey_60">#999999</color>-->
+<!--    <color name="grey_5">#808080</color>-->
+<!--    <color name="light_green_300">#c4d300</color>-->
+
+<!--    <color name="service_provider">#006CD9</color>-->
+<!--    <color name="client">#E23F52</color>-->
+
+<!--    <color name="main_logo_color">#f98607</color>-->
+<!--    <color name="transparent">#00000000</color>-->
+
+<!--    <color name="google_button_text_color">#FFFFFF</color> &lt;!&ndash; Set a contrasting color &ndash;&gt;-->
+
+<!--    <color name="main_button_color">#FF00FF</color>-->
+
+
+<!--    &lt;!&ndash; res/values/colors.xml &ndash;&gt;-->
+<!--    <color name="toggle_on_color_light">#FF6200EE</color>-->
+<!--    <color name="toggle_off_color_light">#FF3700B3</color>-->
+
+<!--    &lt;!&ndash; res/values-night/colors.xml &ndash;&gt;-->
+<!--    <color name="toggle_on_color_dark">#FFFFFF</color>-->
+<!--    <color name="toggle_off_color_dark">#000000</color>-->
+
+
+<!--</resources>-->

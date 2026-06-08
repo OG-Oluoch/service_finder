@@ -1,0 +1,11 @@
+<!-- res/drawable/ic_arrow_back.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0"
+    android:tint="@color/white"> <!-- You can set the tint color here -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M20,11H7.83l3.59,-3.59L11,6l-6,6 6,6 1.41,-1.41L7.83,13H20v-2z"/>
+</vector>

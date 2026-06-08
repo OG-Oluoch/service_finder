@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="Nearest Providers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.AppCompat.Body2"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@color/main_logo_color"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            >
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label_services"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20sp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/dialogRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5sp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213590516282",
+    "project_id": "echiro-86788",
+    "storage_bucket": "echiro-86788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213590516282:android:903d7ef8634b9c33744b03",
+        "android_client_info": {
+          "package_name": "com.whebtos.e_chiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213590516282-0pui249bofdvidvgjopp5uetbkqmg24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUZH8qYD7r4E_i0ylTevMU-kbcUpT9Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213590516282-0pui249bofdvidvgjopp5uetbkqmg24l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

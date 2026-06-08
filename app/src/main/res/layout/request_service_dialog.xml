@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="@string/label_request_service_notice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/segoe_ui_bold"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            >
+
+        </TextView>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/label_request_service_type"
+                android:fontFamily="@font/segoe_ui_bold"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textColor="@color/main_logo_color"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                >
+
+            </TextView>
+
+            <EditText
+                android:id="@+id/selected_service_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="@string/label_request_service_location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/segoe_ui_bold"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textColor="@color/main_logo_color"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                >
+
+            </TextView>
+
+            <EditText
+                android:id="@+id/selected_service__physical_location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Click to add your accurate location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/segoe_ui_bold"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                >
+
+            </TextView>
+
+            <ImageView
+                android:id="@+id/dialog_location_btn"
+                android:padding="5dp"
+                android:background="@color/colorPrimary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_icon_location_on"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/main_logo_color"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:text="Proceed"
+                android:textColor="@color/white"
+                />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_gravity="center"
+            android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-black"
+                android:text="Latitude:" />
+
+            <TextView
+                android:padding="5dp"
+                android:id="@+id/latTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Latitude will be here! "
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-black"
+                android:text="Longitude:" />
+
+            <TextView
+                android:id="@+id/lonTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Longitude will be here! "
+                />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <!--        <androidx.appcompat.widget.LinearLayoutCompat-->
+<!--            android:orientation="vertical"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content">-->
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="@string/label_request_service_time"-->
+<!--                android:fontFamily="@font/segoe_ui_bold"-->
+<!--                android:padding="@dimen/activity_horizontal_margin"-->
+<!--                android:textColor="@color/main_logo_color"-->
+<!--                android:textSize="15sp"-->
+<!--                android:textStyle="bold"-->
+<!--                >-->
+
+<!--            </TextView>-->
+
+<!--            <EditText-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content">-->
+
+<!--            </EditText>-->
+
+<!--        </androidx.appcompat.widget.LinearLayoutCompat>-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <!-- No Text View -->
+            <TextView
+                android:id="@+id/textViewProceed"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:backgroundTint="#2196F3"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:text="Proceed"
+                android:textColor="@color/white" />
+
+            <!-- Yes Text View -->
+            <TextView
+                android:id="@+id/textViewCancel"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:backgroundTint="#FD0001"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:text="Cancel"
+                android:textColor="@color/white" />
+
+        </LinearLayout>
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</LinearLayout>

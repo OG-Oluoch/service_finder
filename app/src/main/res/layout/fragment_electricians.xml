@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.services.ElectriciansFragment">
+
+    <LinearLayout
+        android:weightSum="10"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:src="@drawable/ic_menu_bookings"
+            android:layout_weight="5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </ImageView>
+
+        <TextView
+
+            style="@style/TextAppearance.AppCompat.Large"
+            android:gravity="center_horizontal"
+            android:text="These are the available Electricians"
+            android:layout_weight="5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </TextView>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>
