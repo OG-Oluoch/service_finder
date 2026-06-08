@@ -1,0 +1,1 @@
+An android app where users can search for the nearest service provider
